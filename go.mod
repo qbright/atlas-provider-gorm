@@ -1,4 +1,4 @@
-module ariga.io/atlas-provider-gorm
+module github.com/zqbright/atlas-provider-gorm
 
 go 1.20
 
